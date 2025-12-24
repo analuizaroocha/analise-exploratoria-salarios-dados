@@ -1,6 +1,6 @@
 # 📊 Análise Estatística: Salários de Profissionais de Dados
 
-Este projeto foi desenvolvido como parte do meu curso de Ciência de Dados. O objetivo é aplicar técnicas de **estatística descritiva** e **análise exploratória** para entender os fatores que influenciam a remuneração de profissionais de dados ao redor do mundo.
+Este projeto foi desenvolvido como parte do meu curso de Analises de Dados. O objetivo é aplicar técnicas de **estatística descritiva** e **análise exploratória** para entender os fatores que influenciam a remuneração de profissionais de dados ao redor do mundo.
 
 ## 🚀 Tecnologias Utilizadas
 
