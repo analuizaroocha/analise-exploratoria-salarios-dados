@@ -44,8 +44,8 @@ O cargo de Data Engineer demonstrou uma das maiores consistências salariais no 
 🛠️ Como rodar o projeto
 Clone o repositório:
 
-Bash[
-[git clone https://github.com/analuizaroocha/data-science-salary-analysis.git](https://github.com/analuizaroocha/analise-exploratoria-salarios-dados.git)](https://github.com/analuizaroocha/analise-exploratoria-salarios-dados.git)
+Bash 
+git clone https://github.com/analuizaroocha/analise-exploratoria-salarios-dados
 Instale as dependências necessárias:
 
 Bash
