@@ -45,29 +45,10 @@ O cargo de Data Engineer demonstrou uma das maiores consistências salariais no 
 Clone o repositório:
 
 Bash 
-git clone https://github.com/analuizaroocha/analise-exploratoria-salarios-dados
+git clone https://github.com/analuizaroocha/analise-exploratoria-salarios-dados.git
 Instale as dependências necessárias:
 
 Bash
 pip install pandas matplotlib seaborn
 Abra o arquivo .ipynb no Jupyter Notebook ou VS Code para visualizar a análise.
 
-Como aplicar isso no seu GitHub:
-Abra o seu repositório no navegador.
-
-Clique no arquivo README.md.
-
-Clique no ícone do lápis (Edit) no canto direito.
-
-Apague o que está lá e cole esse texto acima.
-
-Role até o final e clique em Commit changes.
-
-Por que isso faz diferença?
-Quando um recrutador ou outro desenvolvedor abrir seu projeto, ele não vai ver só linhas de código. Ele vai ver que você:
-
-Sabe documentar um projeto.
-
-Entende o porquê está fazendo aquela análise.
-
-Consegue explicar resultados técnicos de forma clara.
