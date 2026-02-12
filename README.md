@@ -18,6 +18,7 @@ Matplotlib & Seaborn (Visualização de dados e geração de gráficos)
 
 Jupyter Notebook (Ambiente de desenvolvimento e documentação)
 
+
 🔍 O que foi analisado?
 Distribuição salarial por nível de experiência (Entry-level, Mid-level, Senior, Executive).
 
@@ -27,6 +28,8 @@ Impacto do trabalho remoto na remuneração.
 
 Tendências salariais baseadas na localização das empresas.
 
+
+
 💡 Insights Extraídos
 (Dica: Aqui você pode editar com as conclusões que você viu no seu código, por exemplo:)
 
@@ -35,6 +38,8 @@ Profissionais de nível Senior apresentam uma média salarial X% superior aos de
 O cargo de Data Engineer demonstrou uma das maiores consistências salariais no dataset analisado.
 
 (Adicione mais um insight que você achou interessante!)
+
+
 
 🛠️ Como rodar o projeto
 Clone o repositório:
