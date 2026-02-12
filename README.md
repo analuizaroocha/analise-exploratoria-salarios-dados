@@ -1,10 +1,10 @@
 # Data Science Salary Analysis 📊
 
 
-<img width="800" height="1800" alt="boxplot_experiencia" src="https://github.com/user-attachments/assets/9fbe3777-560c-4c2c-8eef-375dd30c37cb" />
-<img width="625" height="528" alt="Gráfico de Correlação VS" src="https://github.com/user-attachments/assets/742ea44f-0d78-4acb-9ed0-4e5c4e538b98" />
-<img width="850" height="471" alt="output" src="https://github.com/user-attachments/assets/4f758547-bb38-4c8a-b0f7-06d56836e97d" />
-<img width="876" height="548" alt="Salário por Nível de Experiência VS" src="https://github.com/user-attachments/assets/9f47d02f-62d7-44ce-b708-92c625165778" />
+<img width="800" alt="boxplot_experiencia" src="https://github.com/user-attachments/assets/9fbe3777-560c-4c2c-8eef-375dd30c37cb" />
+<img width="800" alt="Gráfico de Correlação VS" src="https://github.com/user-attachments/assets/742ea44f-0d78-4acb-9ed0-4e5c4e538b98" />
+<img width="800" alt="output" src="https://github.com/user-attachments/assets/4f758547-bb38-4c8a-b0f7-06d5636e97d" />
+<img width="800" alt="Salário por Nível de Experiência VS" src="https://github.com/user-attachments/assets/9f47d02f-62d7-44ce-b708-92c25165777" />
 
 Este projeto realiza uma análise exploratória de dados sobre os salários na área de Ciência de Dados. O objetivo é entender como variáveis como nível de experiência, tipo de emprego e localização influenciam a remuneração dos profissionais.
 
@@ -38,8 +38,8 @@ O cargo de Data Engineer demonstrou uma das maiores consistências salariais no 
 🛠️ Como rodar o projeto
 Clone o repositório:
 
-Bash
-git clone https://github.com/analuizaroocha/data-science-salary-analysis.git
+Bash[
+[git clone https://github.com/analuizaroocha/data-science-salary-analysis.git](https://github.com/analuizaroocha/analise-exploratoria-salarios-dados.git)](https://github.com/analuizaroocha/analise-exploratoria-salarios-dados.git)
 Instale as dependências necessárias:
 
 Bash
